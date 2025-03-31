@@ -1,8 +1,8 @@
 # Retail Store UI
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-A **Retail Store UI** built using Java for visual representation of a retail inventory system. This project focuses on the front-end design without backend functionality.
+A **Retail Store UI** built using HTML and CSS for visual representation of a retail inventory system. This project focuses on front-end design without backend functionality.
 
 ## 📌 Features
 
@@ -13,14 +13,10 @@ A **Retail Store UI** built using Java for visual representation of a retail inv
 
 ## 🏗️ Tech Stack
 
-- **Frontend:** Java (Swing/JavaFX)
-- **IDE:** IntelliJ IDEA / Eclipse / NetBeans
+- **Frontend:** HTML, CSS
+- **Tools:** VS Code / Any text editor
 
 ## 🛠️ Setup & Installation
-
-### Prerequisites
-- Java JDK 8 or later
-- IDE (IntelliJ, Eclipse, or NetBeans)
 
 ### Steps to Run
 1. **Clone the repository**
@@ -28,17 +24,16 @@ A **Retail Store UI** built using Java for visual representation of a retail inv
    git clone https://github.com/DinukaS2004/Retail-Store.git
    cd Retail-Store
    ```
-2. **Open the project in an IDE**
-   - Ensure Java is set up correctly.
-   - Run the main UI class to launch the application.
+2. **Open the project in a browser**
+   - Open `index.html` in any web browser.
 
 ## 📸 Screenshots (Optional)
 _Include some UI screenshots to showcase the design._
 
 ## 🚀 Future Enhancements
-- Backend integration with a database
-- Interactive UI elements with real functionality
-- Responsive design improvements
+- Add JavaScript for interactivity
+- Improve responsiveness with media queries
+- Integrate with a backend for full functionality
 
 ## 🤝 Contributing
 Feel free to contribute by submitting pull requests or reporting issues!
